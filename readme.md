@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://saroj8455.com" target="blank">
+ <a href="https://thedevsaroj.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="saroj8455" />
  </a>
  <a href="https://linkedin.com/in/saifsaroj8455" target="_blank">
