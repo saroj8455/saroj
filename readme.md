@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://saroj8455.com">Saif Al Siam</a></b>
+                <b><a target="_blank" href="https://saroj8455.com">Saroj</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+    「 I am a full stack web appplication developer from <b>Banglore</b> 」
     <br>
     <br>
   </samp>
@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: saroj8455.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: saroj.padhan11@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/saroj8455/saroj8455/issues)
 
 </p>
